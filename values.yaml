@@ -1,0 +1,3 @@
+depolyment:
+  replicas: 3
+  imageVersion: mainline-alpine3.19-perl
